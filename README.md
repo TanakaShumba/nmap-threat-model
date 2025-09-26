@@ -1,10 +1,17 @@
-# Nmap & Threat Model Generator (Demo)
+# nmap-threat-model
 
-Purpose: Parses sample Nmap JSON and outputs a simple threat model JSON.
+## Purpose
+Uses Nmap to create network threat models for educational learning.
 
-Files:
-- nmap_parser.py
-- sample_nmap.json
+## Features
+- Key features and functionalities of the project
 
-Usage:
-python3 nmap_parser.py
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
+
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings
